@@ -1,6 +1,7 @@
-# Pokemon Directory
+# Pokemon Search (React)
 
 
 ---
 Description: 
 ---
+
