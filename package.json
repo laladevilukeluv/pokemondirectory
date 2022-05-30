@@ -38,8 +38,9 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-  {
+  }
+}
+{
     ...,
     "scripts": {
       ...,
@@ -48,6 +49,5 @@
     },
     ...,
     "homepage": "https://laladevilukeluv.github.io/pokemondirectory/"
-  }
 }
 
