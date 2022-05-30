@@ -38,9 +38,8 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
-}
-{
+  },
+  {
     ...,
     "scripts": {
       ...,
@@ -48,6 +47,6 @@
       "deploy": "gh-pages -d build"
     },
     ...,
-    "homepage": "https://laladevilukeluv.github.io/pokemondirectory/"
+    "homepage": "https://(user name).github.io/(repository name)/"
+  }
 }
-
