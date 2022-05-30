@@ -47,7 +47,7 @@
       "deploy": "gh-pages -d build"
     },
     ...,
-    "homepage": "https://(Githubユーザー名).github.io/(Repository名)/"
+    "homepage": "https://laladevilukeluv.github.io/pokemondirectory/"
   }
 }
 
